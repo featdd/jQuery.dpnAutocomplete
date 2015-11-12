@@ -1,0 +1,19 @@
+{
+  "name": "dpnAutocomplete",
+  "authors": [
+    "Daniel Dorndorf <dorndorf@dreipunktnull.com>"
+  ],
+  "description": "A simple jQuery autocomplete",
+  "keywords": [
+    "autocomplete",
+    "autocompletion",
+    "dpnAutocomplete"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {}
+}
